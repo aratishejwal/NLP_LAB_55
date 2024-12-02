@@ -1,7 +1,3 @@
-##Assignment No.01##
-#Name:Rahane Shital Anna
-##Roll No:48
-#Batch:B3
 #Title:"Text Pre-Processing using NLP operations:perform Tokenization
 # Stop word removal,Lemmatization ,Part-of-Speech Tagging use any sample text"
 
