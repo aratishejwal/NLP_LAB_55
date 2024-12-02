@@ -1,7 +1,4 @@
-###  Assignment No 6 ###
-#Name : Shital Rahane
-#Batch : B3
-#Roll No : 48
+
 """Assignment Title : : Implement and visualize Dependency Parsing of Textual Input
 using Stan- ford CoreNLP and Spacy library"""
 
