@@ -1,7 +1,3 @@
-##Assignment No.02##
-#Name:Rahane Shital Anna
-##Roll No:48
-#Batch:B3
 #Title:Assignment to implement Bag of Words and TFIDF using Gensim library.
 import gensim
 from gensim import corpora
